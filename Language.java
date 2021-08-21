@@ -48,3 +48,18 @@ public class Language {
     chinese.getInfo();
   }
 }
+
+/*                OUTPUT 
+
+----- Spanish Language -----
+Spanish is spoken by 555000000 people mainly in Spain, Latin America, and Equatorial Guinea. The language follows the word order: subject-verb-object
+
+----- Mayan Language -----
+Chontal is spoken by 2330000 people mainly in Central America. The language follows the word order: verb-object-subject
+Fun fact: Chontal is an ergative language.
+
+----- SinoTibetan Language (Tibetan) -----
+Tibetan is spoken by 2530000 people mainly in Asia. The language follows the word order: subject-object-verb
+
+----- SinoTibetan Language (Chinese) -----
+Chinese is spoken by 5500100 people mainly in Asia. The language follows the word order: subject-verb-object      */ 
